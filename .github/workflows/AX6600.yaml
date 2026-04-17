@@ -35,7 +35,7 @@ jobs:
       fail-fast: false
       #max-parallel: 3
       matrix:
-        CONFIG: [IPQ60XX-WIFI-YES]
+        CONFIG: [AX6600-WIFI-YES]
         SOURCE: [VIKINGYFY/immortalwrt]
         BRANCH: [main]
 
